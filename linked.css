@@ -1,0 +1,69 @@
+.top
+{
+    width: 100%;
+    height: 100px;
+    background: blue;
+    float: left;
+}
+
+.secondhalf
+{
+    width: 100%;
+    height: 900px;
+    background: red;
+    
+}
+.secondhalf1
+{
+    float: left;
+    width: 55%;
+    height: 900px;
+
+background: rgb(234,234,212);
+}
+.secondhalf2
+{
+    float: left;
+
+    width: 45%;
+    height:900px ;
+background: rgb(234, 234, 212);
+
+}
+/*sign on via google button*/
+.googbutton
+{
+    width: 350px;
+    height: 50px;
+    margin-left:100px ;
+    color: rgb(6, 6, 7);
+    border-radius: 15px;
+    background: rgb(247, 247, 234);
+    cursor: pointer;
+    border: grey;
+    margin-top: 20px;
+}
+/*signup button*/
+.newbutton
+{
+    width: 350px;
+    height: 50px;
+    margin-left:100px ;
+    color: rgb(6, 6, 7);
+    border-radius: 15px;
+    background: rgb(247, 247, 234);
+    cursor: pointer;
+    border: grey;
+    margin-top: 20px;
+
+}
+/*image on the left side*/
+.image
+{
+    width: 500px;
+    height: 500px;
+    border-radius: 400px;
+    margin-top: 50px;
+
+
+}
